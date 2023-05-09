@@ -1,2 +1,2 @@
-# Lady_Bug
-Arduino controller unity project
+# LadyBug
+Game controllers using Arduino and electronic senors for unity
